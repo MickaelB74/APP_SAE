@@ -28,4 +28,4 @@ Avant de commencer à développer ou tester ce projet, assurez-vous d'avoir inst
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-nom-dutilisateur/nom-du-projet.git
+   git clone https://github.com/MickaelB74/APP_SAE.git
